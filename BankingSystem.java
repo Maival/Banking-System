@@ -61,7 +61,7 @@ public class BankingSystem {
 
     public static void main(String[] args) {
         while (true) {
-            System.out.println("Banking System Menu:");
+            System.out.println("Banking System Menu : ");
             System.out.println("1. Create Account");
             System.out.println("2. Deposit");
             System.out.println("3. Withdraw");
